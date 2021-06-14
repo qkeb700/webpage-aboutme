@@ -26,3 +26,11 @@
 
 ### 자기소개 페이지
 
+![introduction](https://user-images.githubusercontent.com/46728564/121923994-73594f80-cd76-11eb-86af-ad1096980450.png)
+
+### 내사진 페이지
+![photo](https://user-images.githubusercontent.com/46728564/121924005-76544000-cd76-11eb-8553-6a23d6eee803.png)
+
+### 현재시간 페이지
+![time](https://user-images.githubusercontent.com/46728564/121924014-78b69a00-cd76-11eb-8e61-7bdc8ac7f59d.png)
+
