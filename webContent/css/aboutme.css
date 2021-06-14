@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+.contents_adjust {
+	padding: 10px 10% 0px 10%;
+	
+}
+
+.contents_adjust  > h1 {
+	margin-bottom: -5px;
+}
+
+.after_a {
+	margin: -5px -5px;
+}
+

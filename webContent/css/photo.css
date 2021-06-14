@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+
+article {
+	overflow: auto;
+	padding: 5% 5%;
+}
+
+img {
+	float: left;
+	margin-right: 15px;
+	border: 10px solid #eaeaea;
+}
+
+.first_img {
+	width: auto;
+	height: auto;
+	max-width: 200px;
+	max-height: 200px;
+}
+.second_img {
+	width: auto;
+	height: auto;
+	width: 200px;
+	max-height: 200px;
+}
